@@ -2,28 +2,26 @@
   "name": "react-native-tref-paint-code",
   "title": "React Native TREF PaintCode",
   "version": "1.0.0",
-  "description": "Library implements a general approach for using PaintCode generated files from React Native on both iOS and Android platforms.",
+  "description": "Library implements a general approach for using PaintCode generated files with React Native on both iOS and Android platforms.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ReferenceArmada/react-native-tref-paint-code.git",
-    "baseUrl": "https://github.com/ReferenceArmada/react-native-tref-paint-code"
+    "url": "https://github.com/ReferenceArmada/react-native-tref-paint-code.git"
   },
   "keywords": [
     "react-native",
     "paintcode",
-    "paint code",
-    "the reference"
+    "the-reference"
   ],
   "author": {
     "name": "The Reference Armada",
     "email": "armada@reference.be"
   },
   "license": "MIT",
-  "licenseFilename": "LICENSE",
+  "licenseFilename": "LICENSE.md",
   "readmeFilename": "README.md",
   "peerDependencies": {
     "react": "^16.8.1",
@@ -32,5 +30,8 @@
   "devDependencies": {
     "react": "^16.9.0",
     "react-native": "^0.61.5"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
