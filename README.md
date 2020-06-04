@@ -1,6 +1,6 @@
 ## Getting started
 
-Library implements a general approach for using PaintCode generated files from React Native on both iOS and Android platforms.
+Library implements a general approach for using PaintCode generated files with React Native on both iOS and Android platforms.
 
 ## Installation
 1. Prepare PaintCode files
