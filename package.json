@@ -1,5 +1,5 @@
 {
-  "name": "react-native-tref-paint-code",
+  "name": "@ReferenceArmada/react-native-tref-paint-code",
   "title": "React Native TREF PaintCode",
   "version": "1.0.0",
   "description": "Library implements a general approach for using PaintCode generated files with React Native on both iOS and Android platforms.",
