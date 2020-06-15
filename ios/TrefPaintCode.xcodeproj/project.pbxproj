@@ -259,6 +259,7 @@
 				PRODUCT_NAME = "react_native_tref_paint_code-Swift.h";
 				SKIP_INSTALL = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "TrefPaintCode-Bridging-Header.h";
+				SWIFT_OBJC_INTERFACE_HEADER_NAME = "TrefPaintCode-Swift.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
@@ -281,6 +282,7 @@
 				PRODUCT_NAME = "react_native_tref_paint_code-Swift.h";
 				SKIP_INSTALL = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "TrefPaintCode-Bridging-Header.h";
+				SWIFT_OBJC_INTERFACE_HEADER_NAME = "TrefPaintCode-Swift.h";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
