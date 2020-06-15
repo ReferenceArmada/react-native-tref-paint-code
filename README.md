@@ -8,13 +8,12 @@ Library implements a general approach for using PaintCode generated files with R
    
    > Convert generated Java file to Kotlin file.
 
+   > Do not forget to use name "PaintCode" for exported classes.
+
 2. Place exported PaintCode files into projects root folders.
 
-3. Install the library from NPM
-   
-```sh
-$ yarn add react-native-tref-paint-code
-```
+3. Install the library from NPM, by following instructions on latest package:
+   https://github.com/ReferenceArmada/react-native-tref-paint-code/packages/
 
 4. Install dependencies for iOS project
 
@@ -22,8 +21,6 @@ $ yarn add react-native-tref-paint-code
 $ cd ios
 $ pod install
 ```
-
-> Do not forget to add **use_frameworks!** on the top of the podfile.
 
 5. On native Android project, open **MainApplication.java** file and add following to the file:
 
@@ -62,7 +59,7 @@ import {TrefPaintCode,
         TrefPaintCodeType,
         TrefPaintCodeResizingBehaviour,
         TrefPaintCodeHelper}
-        from 'react-native-tref-paint-code';
+        from '@referencearmada/react-native-tref-paint-code';
 ```
 
 2. Use **TrefPaintCode** component in views.

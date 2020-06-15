@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "DrawerEngine.h"
 #import <objc/runtime.h>
-#import "react_native_tref_paint_code/react_native_tref_paint_code-Swift.h"
+#import "TrefPaintCode-Swift.h"
 
 @implementation DrawerEngine
 
