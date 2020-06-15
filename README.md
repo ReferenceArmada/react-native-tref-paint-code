@@ -8,6 +8,8 @@ Library implements a general approach for using PaintCode generated files with R
    
    > Convert generated Java file to Kotlin file.
 
+   > Do not forget to use name "PaintCode" for exported classes.
+
 2. Place exported PaintCode files into projects root folders.
 
 3. Install the library from NPM, by following instructions on latest package:
