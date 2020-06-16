@@ -12,6 +12,8 @@ Library implements a general approach for using PaintCode generated files with R
 
 2. Place exported PaintCode files into projects root folders.
 
+    > Do not forget to "Configure" project after you added PaintCode.kt file.
+
 3. Install the library from NPM, by following instructions on latest package:
    https://github.com/ReferenceArmada/react-native-tref-paint-code/packages/
 
